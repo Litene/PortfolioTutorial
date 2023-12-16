@@ -67,7 +67,7 @@ of scriptable object, we kept the architecture simple due to the time constraint
   I would argue that the text in this section is more important than code itself, here you have an opportunity to showcase that you understand the code,
   that you were a central part in creating it, this is an important factor since most
   projects are group projects.
- 
+  
 [//]: # (Tip)
     Tip
 
