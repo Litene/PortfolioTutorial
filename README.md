@@ -27,9 +27,9 @@ not complicated, fun and so on.
 [//]: # (Tip)
     Tip
 
-    This should take large portion of the size some space in a bigger font size, and spend time on the 
-    presentation, this is the first thing the intersted party will see when they click a game page. This 
-    is important information. 
+    This should take large portion of the size some space in a bigger font size, and spend 
+    time on the presentation, this is the first thing the intersted party will see when 
+    they click a game page. This is important information. 
 
 Example: (Use some sort of visual presentation of things described above)
 
