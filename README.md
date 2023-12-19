@@ -15,7 +15,7 @@ not complicated, fun and so on.
 ### General writing/presentation tips
 * Vary sentence lengths
 * Avoid big chunks of text
-* Keep it relevant and the subject
+* Keep it relevant and on the subject
 * Mark relevant keywords in bold or underlined
 * Vary the material text, images, media (gif or video)
 * Use technical terms and keywords
@@ -86,7 +86,7 @@ to create more factories for other types of objectives in the game.
 
 (Code foldout)
 
-Party 5 (Post Mortem)
+### Part 5 (Post Mortem)
 
 * A detailed but short post mortem describing what went wrong, what went right,
   did you achieve the pillars of the project and so on.
